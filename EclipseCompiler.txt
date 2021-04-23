@@ -1,0 +1,2 @@
+20 Sep 2019 21:17:50 GMT: Log 'EclipseCompiler.txt' opened: 20 Sep 2019 21:17:50 GMT with name I:\_\EclipseCompiler.txt
+20 Sep 2019 21:18:34 GMT: Log 'EclipseCompiler.txt' opened: 20 Sep 2019 21:18:34 GMT with name I:\_\EclipseCompiler.txt
